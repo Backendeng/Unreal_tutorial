@@ -2336,3 +2336,31 @@ Recommended: 516.25
 [2022.11.30-00.20.45:399][923]LogHttp: Warning: 00000BBFA1CCF000: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2022.11.30-00.20.45:399][923]LogHttp: Warning: 00000BBFA1CCF000: libcurl info message cache 7 (Closing connection 48)
 [2022.11.30-00.20.45:399][923]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B07CB5626-4D63-5A67-FEFB-AC8CF9BDEF67%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=e569cd2d4a6ae95f83a366818b01d9de%7Cfe4489dd7d774e279d3716a98118fbdf%7C860f1890-edbb-4bcb-a2cb-62ef5ed8a325&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.30-00.21.58:762][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.30-00.21.58:764][161]LogStall: Shutdown...
+[2022.11.30-00.21.58:811][161]LogStall: Shutdown complete.
+[2022.11.30-00.21.59:708][161]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-00.21.59:709][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-00.22.00:815][161]LogSlate: Window 'Tutorial - Unreal Editor' being destroyed
+[2022.11.30-00.22.00:816][161]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.11.30-00.22.01:786][162]Cmd: QUIT_EDITOR
+[2022.11.30-00.22.01:786][162]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.11.30-00.22.02:483][162]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.11.30-00.22.02:494][162]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.11.30-00.22.02:547][162]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.11.30-00.22.05:233][162]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.11.30-00.22.05:233][162]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.11.30-00.22.05:233][162]LogAudio: Display: Audio Device unregistered from world 'MeterialExammpleLevel'.
+[2022.11.30-00.22.05:234][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.11.30-00.22.05:238][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.11.30-00.22.05:250][162]LogAudio: Display: Audio Device Manager Shutdown
+[2022.11.30-00.22.05:353][162]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.11.30-00.22.06:022][162]LogExit: Preparing to exit.
+[2022.11.30-00.22.07:402][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.11.30-00.22.10:896][162]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-00.22.12:328][162]LogWorld: UWorld::CleanupWorld for MeterialExammpleLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-00.22.13:226][162]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.11.30-00.22.14:525][162]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.11.30-00.22.14:705][162]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.11.30-00.22.15:464][162]LogExit: Editor shut down
+[2022.11.30-00.22.15:477][162]LogExit: Transaction tracking system shut down
